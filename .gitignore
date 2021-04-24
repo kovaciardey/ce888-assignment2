@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# dataset and others
+alexnet-flame/alexnet-other
